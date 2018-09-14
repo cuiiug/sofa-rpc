@@ -194,7 +194,7 @@
                     </mapping>
                 </configuration>
             </plugin>
-
+			<!-- 
             <plugin>
                 <groupId>com.googlecode.maven-java-formatter-plugin</groupId>
                 <artifactId>maven-java-formatter-plugin</artifactId>
@@ -210,7 +210,7 @@
                     <configFile>${user.dir}/tools/codestyle/formatter.xml</configFile>
                     <encoding>UTF-8</encoding>
                 </configuration>
-            </plugin>
+            </plugin> -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-install-plugin</artifactId>
