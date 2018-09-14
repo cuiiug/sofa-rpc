@@ -1,0 +1,606 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "sofa-rpc-codec",
+                "projectName": "sofa-rpc-codec",
+                "workingDirectory": "d:\\git\\sofa-rpc\\core-impl\\codec",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-log",
+                "projectName": "sofa-rpc-log",
+                "workingDirectory": "d:\\git\\sofa-rpc\\core-impl\\log",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-transport",
+                "projectName": "sofa-rpc-transport",
+                "workingDirectory": "d:\\git\\sofa-rpc\\core-impl\\transport",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-example",
+                "projectName": "sofa-rpc-example",
+                "workingDirectory": "d:\\git\\sofa-rpc\\example",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-bootstrap-dubbo",
+                "projectName": "sofa-rpc-bootstrap-dubbo",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\bootstrap-dubbo",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-remoting-http",
+                "projectName": "sofa-rpc-remoting-http",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\remoting-http",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-test-integration",
+                "projectName": "sofa-rpc-test-integration",
+                "workingDirectory": "d:\\git\\sofa-rpc\\test\\test-integration",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-proxy",
+                "projectName": "sofa-rpc-proxy",
+                "workingDirectory": "d:\\git\\sofa-rpc\\core-impl\\proxy",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-tracer-opentracing",
+                "projectName": "sofa-rpc-tracer-opentracing",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\tracer-opentracing",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-remoting-bolt",
+                "projectName": "sofa-rpc-remoting-bolt",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\remoting-bolt",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-codec-sofa-hessian",
+                "projectName": "sofa-rpc-codec-sofa-hessian",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\codec-sofa-hessian",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-test-integration-3rd",
+                "projectName": "sofa-rpc-test-integration-3rd",
+                "workingDirectory": "d:\\git\\sofa-rpc\\test\\test-integration-3rd",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-extension-common",
+                "projectName": "sofa-rpc-extension-common",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\extension-common",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-client",
+                "projectName": "sofa-rpc-client",
+                "workingDirectory": "d:\\git\\sofa-rpc\\core-impl\\client",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-test-common",
+                "projectName": "sofa-rpc-test-common",
+                "workingDirectory": "d:\\git\\sofa-rpc\\test\\test-common",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-common",
+                "projectName": "sofa-rpc-common",
+                "workingDirectory": "d:\\git\\sofa-rpc\\core\\common",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-api",
+                "projectName": "sofa-rpc-api",
+                "workingDirectory": "d:\\git\\sofa-rpc\\core\\api",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-tracer-opentracing-resteasy",
+                "projectName": "sofa-rpc-tracer-opentracing-resteasy",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\tracer-opentracing-resteasy",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-filter",
+                "projectName": "sofa-rpc-filter",
+                "workingDirectory": "d:\\git\\sofa-rpc\\core-impl\\filter",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-registry-zk",
+                "projectName": "sofa-rpc-registry-zk",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\registry-zk",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-bootstrap-http",
+                "projectName": "sofa-rpc-bootstrap-http",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\bootstrap-http",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-api-compatible",
+                "projectName": "sofa-rpc-api-compatible",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\api-compatible",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-bootstrap-bolt",
+                "projectName": "sofa-rpc-bootstrap-bolt",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\bootstrap-bolt",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-bootstrap-rest",
+                "projectName": "sofa-rpc-bootstrap-rest",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\bootstrap-rest",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-all",
+                "projectName": "sofa-rpc-all",
+                "workingDirectory": "d:\\git\\sofa-rpc\\all",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-codec-protobuf",
+                "projectName": "sofa-rpc-codec-protobuf",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\codec-protobuf",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-exception",
+                "projectName": "sofa-rpc-exception",
+                "workingDirectory": "d:\\git\\sofa-rpc\\core\\exception",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-registry-mesh",
+                "projectName": "sofa-rpc-registry-mesh",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\registry-mesh",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-remoting-resteasy",
+                "projectName": "sofa-rpc-remoting-resteasy",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\remoting-resteasy",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-registry-local",
+                "projectName": "sofa-rpc-registry-local",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\registry-local",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-metrics-lookout",
+                "projectName": "sofa-rpc-metrics-lookout",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\metrics-lookout",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-fault-tolerance",
+                "projectName": "sofa-rpc-fault-tolerance",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\fault-tolerance",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-log-common-tools",
+                "projectName": "sofa-rpc-log-common-tools",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\log-common-tools",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "sofa-rpc-codec",
+                "projectName": "sofa-rpc-codec",
+                "workingDirectory": "d:\\git\\sofa-rpc\\core-impl\\codec",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-log",
+                "projectName": "sofa-rpc-log",
+                "workingDirectory": "d:\\git\\sofa-rpc\\core-impl\\log",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-transport",
+                "projectName": "sofa-rpc-transport",
+                "workingDirectory": "d:\\git\\sofa-rpc\\core-impl\\transport",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-example",
+                "projectName": "sofa-rpc-example",
+                "workingDirectory": "d:\\git\\sofa-rpc\\example",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-bootstrap-dubbo",
+                "projectName": "sofa-rpc-bootstrap-dubbo",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\bootstrap-dubbo",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-remoting-http",
+                "projectName": "sofa-rpc-remoting-http",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\remoting-http",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-test-integration",
+                "projectName": "sofa-rpc-test-integration",
+                "workingDirectory": "d:\\git\\sofa-rpc\\test\\test-integration",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-proxy",
+                "projectName": "sofa-rpc-proxy",
+                "workingDirectory": "d:\\git\\sofa-rpc\\core-impl\\proxy",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-tracer-opentracing",
+                "projectName": "sofa-rpc-tracer-opentracing",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\tracer-opentracing",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-remoting-bolt",
+                "projectName": "sofa-rpc-remoting-bolt",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\remoting-bolt",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-codec-sofa-hessian",
+                "projectName": "sofa-rpc-codec-sofa-hessian",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\codec-sofa-hessian",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-test-integration-3rd",
+                "projectName": "sofa-rpc-test-integration-3rd",
+                "workingDirectory": "d:\\git\\sofa-rpc\\test\\test-integration-3rd",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-extension-common",
+                "projectName": "sofa-rpc-extension-common",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\extension-common",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-client",
+                "projectName": "sofa-rpc-client",
+                "workingDirectory": "d:\\git\\sofa-rpc\\core-impl\\client",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-test-common",
+                "projectName": "sofa-rpc-test-common",
+                "workingDirectory": "d:\\git\\sofa-rpc\\test\\test-common",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-common",
+                "projectName": "sofa-rpc-common",
+                "workingDirectory": "d:\\git\\sofa-rpc\\core\\common",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-api",
+                "projectName": "sofa-rpc-api",
+                "workingDirectory": "d:\\git\\sofa-rpc\\core\\api",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-tracer-opentracing-resteasy",
+                "projectName": "sofa-rpc-tracer-opentracing-resteasy",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\tracer-opentracing-resteasy",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-filter",
+                "projectName": "sofa-rpc-filter",
+                "workingDirectory": "d:\\git\\sofa-rpc\\core-impl\\filter",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-registry-zk",
+                "projectName": "sofa-rpc-registry-zk",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\registry-zk",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-bootstrap-http",
+                "projectName": "sofa-rpc-bootstrap-http",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\bootstrap-http",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-api-compatible",
+                "projectName": "sofa-rpc-api-compatible",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\api-compatible",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-bootstrap-bolt",
+                "projectName": "sofa-rpc-bootstrap-bolt",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\bootstrap-bolt",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-bootstrap-rest",
+                "projectName": "sofa-rpc-bootstrap-rest",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\bootstrap-rest",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-all",
+                "projectName": "sofa-rpc-all",
+                "workingDirectory": "d:\\git\\sofa-rpc\\all",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-codec-protobuf",
+                "projectName": "sofa-rpc-codec-protobuf",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\codec-protobuf",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-exception",
+                "projectName": "sofa-rpc-exception",
+                "workingDirectory": "d:\\git\\sofa-rpc\\core\\exception",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-registry-mesh",
+                "projectName": "sofa-rpc-registry-mesh",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\registry-mesh",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-remoting-resteasy",
+                "projectName": "sofa-rpc-remoting-resteasy",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\remoting-resteasy",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-registry-local",
+                "projectName": "sofa-rpc-registry-local",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\registry-local",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-metrics-lookout",
+                "projectName": "sofa-rpc-metrics-lookout",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\metrics-lookout",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-fault-tolerance",
+                "projectName": "sofa-rpc-fault-tolerance",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\fault-tolerance",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            },
+            {
+                "name": "sofa-rpc-log-common-tools",
+                "projectName": "sofa-rpc-log-common-tools",
+                "workingDirectory": "d:\\git\\sofa-rpc\\extension-impl\\log-common-tools",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
